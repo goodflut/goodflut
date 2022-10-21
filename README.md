@@ -20,7 +20,7 @@ white : #FBFBFB
 
   <div>
 
-### 🍒 Tech Stack
+### ⬛️ Tech Stack
 
 ---
 
@@ -31,7 +31,7 @@ white : #FBFBFB
   </div>
   <br />
 
-### 🍑 My Stats
+### ⬜️ My Stats
 
 ---
 
